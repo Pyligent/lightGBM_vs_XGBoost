@@ -32,9 +32,9 @@
     - **Continued Training** so that you can further boost an already fitted model on new data.
     
 ### 3. "Census Income" Dataset to test Light GBM and XGBoost model
-![Model Performence]()   
-![light GBM ROC Curve]()
-![XGBoost ROC Curve]()
+![Model Performence](https://github.com/Pyligent/lightGBM_vs_XGBoost/blob/master/gbm_result.png)   
+![light GBM ROC Curve](https://github.com/Pyligent/lightGBM_vs_XGBoost/blob/master/lightgbm.png)
+![XGBoost ROC Curve](https://github.com/Pyligent/lightGBM_vs_XGBoost/blob/master/xgboost.png)
 
 
 
