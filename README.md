@@ -1,7 +1,7 @@
 ## Light GBM model vs XGBoost Model
 [blog](https://pyligent.github.io/2019-03-30-lightGBM_XGBoost/)
 
-[XGBoost Model - Housing Prices]()
+[XGBoost Model - Housing Prices](https://github.com/Pyligent/lightGBM_vs_XGBoost/blob/master/XGBoost%20and%20Gradient%20Boosting.ipynb)
 ### 1.Light GBM model
 
 - **Light GBM is a fast, distributed, high-performance gradient boosting framework based on decision tree algorithm, used for ranking, classification and many other machine learning tasks.**
